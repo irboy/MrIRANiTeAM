@@ -1,8 +1,8 @@
 package.path = package.path..';.luarocks/share/lua/5.2/?.lua;.luarocks/share/lua/5.2/?/init.lua'
 package.cpath = package.cpath..';.luarocks/lib/lua/5.2/?.so'
-bot_token = "418516842:AAHlHyfOpUKIikXWO-ai5JXwMC08CiSv7Kw" --Put You Token Here
+bot_token = "462852085:AAFbMPV4uHlCpCASJ6LNzN-BsvFG_mB2sv8" --Put You Token Here
 send_api = "https://api.telegram.org/bot"..bot_token
-sudo_id = 377450049
+sudo_id = 475975207
 require('./bot/methods')
 require('./bot/utils')
 require('./libs/JSON')
@@ -162,25 +162,25 @@ function create_config( )
     "core",
     "plugins"
     },
-    sudo_users = {377450049,00000000},--Sudo users
+    sudo_users = {475975207,468435787},--Sudo users
     admins = {},
     disabled_channels = {},
     moderation = {data = ''..MaTaDoRTeaM..'/data/moderation.json'},
     info_text = [[
-*》MaTaDoR Helper Bot V1*
+*》MRIRANI Helper Bot V1*
 	
-》[MaTaDoR Helper](https://github.com/MaTaDoRTeam/MaTaDoR)
+》[MRIRANI Helper](https://github.com/IRBOY/MrIRANiTeAM)
 
 *》Admins :*
-*》Founder & Developer :* [MahDiRoO](Telegram.Me/mahdiroo)
-_》Developer :_ [JaVaD](Telegram.Me/javadsudo)
-_》Developer & Sponser :_ [MAKAN](Telegram.Me/shaniloop)
+*》Founder & Developer :* [IRANB0Y](Telegram.Me/IRANB0Y)
+_》Developer :_ [RAMIN](Telegram.Me/IRANB0Y)
+_》Developer & Sponser :_ [MAKAN](Telegram.Me/IRANB0Y)
 
 *》Special thanks to :*
-》[Xamarin](Telegram.Me/xamarin_developer)
+》[MRIRANI](Telegram.Me/IRANB0Y)
 
 *》Our channel :*
-》[MaTaDoRTeaM](Telegram.Me/matadorTeam)
+》[MrIRANiTeAM](Telegram.Me/MrIRANiTeAM)
 ]],
   }
   serialize_to_file(config, './data/config.lua')
