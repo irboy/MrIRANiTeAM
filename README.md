@@ -1,13 +1,13 @@
 <p 
     <div align="center">
-    <a href="https://telegram.me/matadorteam">
+    <a href="https://telegram.me/MrIRANiTeAM">
         <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/mahdiroo">
+    <a href="https://telegram.me/IRANB0Y">
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
-<a href="https://telegram.me/matadorteam"><font size="100">MaTaDoR BoT v5.7</font></a>
+<a href="https://telegram.me/MrIRANiTeAM"><font size="100">MrIRANiTeAM BoT v5.7</font></a>
 <br>
 <h3 align="right"> <strong></strong>
 </h3>
@@ -28,7 +28,7 @@ cd ..
 <br></h4>
 <h6 dir="rtl"></h6>
 <pre>
-<span>cd $HOME && git clone https://github.com/MaTaDoRTeaM/MaTaDoR</span>
+<span>cd $HOME && git clone https://github.com/irboy/MrIRANiTeAM.git</span>
 </pre>
 
 
@@ -37,7 +37,7 @@ cd ..
 
 ###  Telegram channel:
 
-# [MaTaDoRTeaM](https://telegram.me/MaTaDoRTeaM)
+# [MrIRANiTeAM](https://telegram.me/MrIRANiTeAM)
 
 * * *
 》*Please send us your stars☆ at the top of this page*
