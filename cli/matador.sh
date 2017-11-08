@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/MaTaDoR/cli
+cd $HOME/MrIRANiTeAM/cli
 
 install() {
 	    cd tg
